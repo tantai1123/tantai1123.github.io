@@ -30,6 +30,20 @@ img {
   height: 70%;
 }
 
+@media only screen and (max-width: 768px){
+  #outside-pic {
+    width: 50%;
+    height: 70%;
+  }
+}
+
+@media only screen and (max-width: 450px){
+  #outside-pic {
+    width: 50%;
+    height: 30%;
+  }
+}
+
 #inside {
   z-index: 0;
   position: absolute;
