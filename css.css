@@ -21,13 +21,13 @@ img {
 #outside-title {
   color: #FC0;
   font-family: Courier;
-  font-size: 1em;
+  font-size: 1.4em;
   text-align: center;
 }
 
 #outside-pic {
-  width: 40%;
-  height: 50%;
+  width: 50%;
+  height: 70%;
 }
 
 #inside {
